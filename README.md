@@ -1,1 +1,1 @@
-# -Camera-Vision-Based-Defect-Detection-System-MBA-Assembly-Line
+Camera-Vision-Based-Defect-Detection-System-MBA-Assembly-Line
